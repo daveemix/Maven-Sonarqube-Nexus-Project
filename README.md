@@ -1,1 +1,1 @@
-# Maven-Sonarqube-Nexus-Project
+# maven-nexus-projects
